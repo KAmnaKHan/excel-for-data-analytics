@@ -13,4 +13,15 @@ This repository documents my journey of learning Excel for data analytics and me
 - Medical data analysis
 
 ## Goal
-To build strong analytical and research skills for public health and biostatistics.# excel-for-data-analytics
+To build strong analytical and research skills for public health and biostatistics.
+
+# excel-for-data-analytics
+excel-for-data-analytics/
+│
+├── basics/
+├── formulas/
+├── charts/
+├── pivot-tables/
+├── dashboards/
+├── medical-datasets/
+└── mini-projects/
